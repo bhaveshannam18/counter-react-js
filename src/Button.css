@@ -1,0 +1,14 @@
+.btn{
+    margin: 15px;
+    margin-bottom: 15px;
+}
+
+.resetBtn{
+    margin-bottom: 15px;
+}
+
+.topRightAddCounterBtn{
+    margin: 25px 50%;
+    font-size: 30px;
+    border-radius: 25%;
+}
